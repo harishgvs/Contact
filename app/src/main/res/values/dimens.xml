@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="input_size">16sp</dimen>
+    <dimen name="btn_size">18sp</dimen>
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="des_size">14sp</dimen>
+    <dimen name="del_size">42dp</dimen>
+    <dimen name="list_size">20sp</dimen>
+</resources>

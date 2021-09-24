@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="add">ADD</string>
+    <string name="success_message">Added user successFully</string>
+    <string name="failure_message">Already user is there</string>
+    <string name="txt_dialog_action">Select Action</string>
+    <string name="txt_dialog_photo">Select photo from gallery</string>
+    <string name="txt_dialog_capture">Capture photo from camera</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="update">Update</string>
+</resources>
